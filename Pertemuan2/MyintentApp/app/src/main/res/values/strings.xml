@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyintentApp</string>
+    <string name="Move">Move Activity</string>
+    <string name="move_data">Move Activity With Data</string>
+    <string name="call">Panggilan</string>
+    <string name="web">Website ITTP</string>
+    <string name="Intent">Intent Explicit</string>
+    <string name="layer">Halaman 2</string>
+</resources>
