@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="hmj_name">Himpunan Mahasiswa ITT Purwodadi</string>
+    <string name="desc">Deskripsi</string>
+    <string-array name="data_nama">
+        <item>Meliodas</item>
+        <item>Zeldris</item>
+        <item>Elizabeth</item>
+        <item>Escanor</item>
+        <item>Merlin</item>
+        <item>Diane</item>
+        <item>Gother</item>
+        <item>King</item>
+        <item>Ban</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Iblis terkuat dan iblis penghianat,ketua 7 dosa mematikan</item>
+
+        <item>Adine Meliodas, 10 Perintah Tuhan Sang Kepatuhan</item>
+
+        <item>Kekasih Meliodas,Dewi Elizabeth Fanart</item>
+
+        <item>Dosa Angkuh</item>
+
+        <item>Boar sin, si Babi Merah</item>
+
+        <item>Klan Raksasa </item>
+
+        <item>Boneka Hidup,Dosa Kambing</item>
+        <item> Raja Peri,</item>
+        <item> Undead Ban,Fox Sin</item>
+    </string-array>
+    <string-array name="photo">
+        <item>https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/4/40/Zeldris_full_appearance.png/revision/latest?cb=20150329132625</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpDs8bE7Mu-6o7Ws1jILFeArVNZC3_vTeO3KIRrVneaKHc4aRd</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzgMNftomegjHFSt8Y06-DhswRwsqtClNkouJ2A_qmk3RPkzOL</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGmtRvua4CSa8TKD42RTQrLC3Mvj8Q_HDO9M8BsNqv_nl512FF</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHS6Kkup3qgrhaU_QZwSCfbutE8W26OUVC_-Junhbr9-Ze5UdB</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZb8b3dqSyT-Xe2-rL5i0qdaL08q0YD4Md7z8qMID4vNp_g8qE</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsuJstcPmD_zkB3AMXsQXuPfLdyi06DvT4ZSpLoWGgYnpf05ke</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfw8L3nvn4wFRrkZMhtQp4OwYYTZHjhgvMerF4rOCpL0yNn549</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ19fNHZWDJE_wDywUbLbA3XHftElhJLzGBqzs71sM6_BFPLKV2</item>
+    </string-array>
+</resources>
