@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         });
         signUp = findViewById(R.id.signup_txt);
         signUp.setOnClickListener(new View.OnClickListener() {
-            @Override
+
             public void onClick(View view) {
                 startActivity(new Intent(getApplicationContext(), RegistrationActivity.class));
             }
