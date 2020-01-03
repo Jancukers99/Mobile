@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:layout_marginBottom="10dp"
+    app:cardCornerRadius="10dp"
+    android:outlineSpotShadowColor="@color/colorAccent"
+    android:background="@android:color/holo_blue_light"
+    android:id="@+id/itemku">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_hmj_list"
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:layout_marginLeft="25px"
+            android:layout_marginTop="25px" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20px"
+            android:layout_marginTop="25px"
+            android:layout_marginRight="20px"
+            android:layout_marginBottom="25px"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@id/name_hmj_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama HM"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@id/desk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:text="Description"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
